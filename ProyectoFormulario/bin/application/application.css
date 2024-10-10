@@ -1,0 +1,21 @@
+.label {
+    -fx-text-fill: blue;
+    -fx-font-weight: bold;
+    -fx-font-size: 16px;
+}
+
+.button {
+	-fx-background-color: green; 
+	-fx-text-fill: white;
+}
+
+.radio-button {
+	-fx-border-width: 3px;
+	-fx-border-color: black;
+	-fx-padding: 5;
+}
+
+.table-view {
+    -fx-border-color: black;
+    -fx-border-width: 2px;
+}
